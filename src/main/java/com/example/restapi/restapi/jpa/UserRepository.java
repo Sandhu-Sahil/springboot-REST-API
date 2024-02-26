@@ -1,4 +1,4 @@
-package com.example.restapi.jpa;
+package com.example.restapi.restapi.jpa;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
